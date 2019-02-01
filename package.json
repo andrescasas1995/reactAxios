@@ -1,0 +1,38 @@
+{
+  "name": "redux",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@progress/kendo-base-component-react-wrapper": "^2018.3.1017",
+    "@progress/kendo-data-query": "^1.5.0",
+    "@progress/kendo-react-buttons": "^2.6.1",
+    "@progress/kendo-react-dateinputs": "^2.6.1",
+    "@progress/kendo-react-dropdowns": "^2.6.1",
+    "@progress/kendo-react-grid": "^2.6.1",
+    "@progress/kendo-react-inputs": "^2.6.1",
+    "@progress/kendo-react-intl": "^2.6.1",
+    "@progress/kendo-theme-default": "^3.2.0",
+    "@progress/kendo-ui": "^2019.1.115",
+    "axios": "^0.18.0",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
+    "react-scripts": "^2.1.3",
+    "sweetalert2": "^7.18.0",
+    "sweetalert2-react-content": "^1.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
